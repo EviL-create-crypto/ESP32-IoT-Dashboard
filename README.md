@@ -7,3 +7,9 @@ Pour *le code arduino pour ESP 32* nous allons de part cela , changer les (**Nom
 Pour *Le code data.php* , on vas changer l'IP et ainsi inserer celui de L'**ESP 32**.
 
 🔵Pour valeur.csv et .txt vous aurai seulement besoin de les mettre dans un dossier commun sur votre VM. 
+
+
+
+
+
+
